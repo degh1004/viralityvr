@@ -746,7 +746,7 @@ header{
     background-image: url("../img/banner1.jpg");
     width: 100%;
     background-size:cover;
-    background-position: center;
+    background-position: bottom;
     background-repeat: no-repeat;
     z-index: 111;
 }
